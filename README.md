@@ -2,7 +2,7 @@
 
 This is the place where I will (hopefully :rofl:) opensource stuff 
 
-- 🔭 I’m currently working at IQVIA [IQVIA](https://www.iqvia.com/)
+- 🔭 I’m currently working at [IQVIA](https://www.iqvia.com/)
 - 🌱 The 2022 goals are:
   - To start making my repositories **Public**
   - To get better at my R coding skill using [Datacamp](https://www.datacamp.com/) 
@@ -10,7 +10,7 @@ This is the place where I will (hopefully :rofl:) opensource stuff
   - Learn to type without looking 🙈 [A website to learn and practice touch typing!](https://www.keybr.com/) 
   - To survive the 66 days "learn [French](https://www.duolingo.com/course/fr/en/Learn-French) challenge" with my children 
 - 📫 How to reach me: [@leynu_](https://twitter.com/leynu_) or [@leynu](https://www.linkedin.com/in/leynu/)
-- ⚡ &nbsp;Fun fact: I :heart: :cats:s
+- ⚡ &nbsp;Fun fact: I :heart: :cat:s
 
 
 <!--
