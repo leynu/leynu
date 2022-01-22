@@ -2,6 +2,8 @@
 
 This is the place where I will (hopefully :rofl:) opensource stuff 
 
+- 👩‍💻 Statistician, Mother & Solo traveller
+- 🇷🇺🇺🇦🇨🇱🇸🇪 
 - 🔭 I’m currently working at [IQVIA](https://www.iqvia.com/)
 - 🌱 The 2022 goals are:
   - To start making my repositories **Public**
