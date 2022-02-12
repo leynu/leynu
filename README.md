@@ -9,13 +9,12 @@ This is the place where I will (hopefully :rofl:) opensource stuff
   - Learn more about **Multiple Imputation using R**
   - Learn to type without looking 🙈 [A website to learn and practice touch typing!](https://www.keybr.com/) 
   - To survive the 66 days "learn [French](https://www.duolingo.com/course/fr/en/Learn-French) challenge" with my children 
-- 📫 How to reach me: [@leynu_](https://twitter.com/leynu_) or [@leynu](https://www.linkedin.com/in/leynu/)
-- ⚡ &nbsp;Fun fact: I speak 🇷🇺🇺🇦🇨🇱🇸🇪 & I :heart: 🐱 ✈️ 🎧+📚 
-- <a href="https://github.com/leynu"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/github.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a> 
-
+- How to reach me: 
+<a href="https://github.com/leynu"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/github.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a> 
 <a href="https://www.linkedin.com/in/leynu/"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/linkedin.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a>
 <a href="https://twitter.com/leynu_"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/twitter.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a>
 <a href="mailto:leynu0210@gmail.com"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/envelope.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a>
+- ⚡ &nbsp;Fun fact: I speak 🇷🇺🇺🇦🇨🇱🇸🇪 & I :heart: 🐱 ✈️ 🎧+📚 
 
 <!--
 **leynu/leynu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
