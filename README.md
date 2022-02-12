@@ -15,6 +15,7 @@ This is the place where I will (hopefully :rofl:) opensource stuff
 
 <a href="https://www.linkedin.com/in/leynu/"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/linkedin.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a>
 <a href="https://twitter.com/leynu_"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/twitter.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a>
+<a href="mailto:leynu0210@gmail.com"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/envelope.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a>
 
 <!--
 **leynu/leynu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
