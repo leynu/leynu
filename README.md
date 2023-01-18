@@ -8,7 +8,7 @@ This is the place where I will (hopefully :rofl:) opensource stuff
   - To get better at my R coding skills using [Datacamp](https://www.datacamp.com/) 
   - Learn more about **Multiple Imputation using R**
   - To increase my typing speed (mean 38.9 wpm, on 1Jan2023) 🙈 [A website to learn and practice touch typing!](https://www.keybr.com/) 
-  - Learn Italien (goal: > 15 min on daily bases) 
+  - Learn Italian (goal: > 15 min on daily bases) 
 - How to reach me: 
 <a href="https://github.com/leynu"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/github.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a> 
 <a href="https://www.linkedin.com/in/leynu/"><img src="https://github.com/leynu/Feb22_myfun/blob/master/fig/linkedin.png?raw=true" alt="Leyla Nunez | Twitter" width="21px"/></a>
