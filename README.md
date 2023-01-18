@@ -2,7 +2,7 @@
 
 This is the place where I will (hopefully :rofl:) opensource stuff 
 
-- 👩‍💻 I’m a Sr. statistician. Currently working at [IQVIA](https://www.iqvia.com/)
+- 👩‍💻 I’m a Senior Biostatistician and Line Manager. Currently working at [IQVIA](https://www.iqvia.com/)
 - 🌱 The 2023 goals are:
   - To start making my repositories **Public**
   - To get better at my R coding skills using [Datacamp](https://www.datacamp.com/) 
