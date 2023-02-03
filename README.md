@@ -4,7 +4,7 @@ This is the place where I will (hopefully :rofl:) opensource stuff
 
 - 👩‍💻 I’m a Senior Biostatistician and Line Manager. Currently working at [IQVIA](https://www.iqvia.com/)
 - 🌱 The 2023 goals are:
-  - To restart my home page: leynu.com
+  - To restart my home page: [leynu.com](https://www.leynu.com/)
   - To continue learning and improving my skills in R
   - To develop my management skills and become someone that my colleagues can rely on
   - To increase my typing speed (mean 38.9 wpm, on 1Jan2023) 🙈 [A website to learn and practice touch typing!](https://www.keybr.com/) 
